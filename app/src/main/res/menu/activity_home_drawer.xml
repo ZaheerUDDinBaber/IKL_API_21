@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_slide"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_exp"
+            android:icon="@drawable/explore_slide"
+            android:title="Explore Courses"/>
+        <item
+            android:id="@+id/nav_ikl"
+            android:icon="@drawable/homescreen_ikl"
+            android:title="IKL"/>
+
+        <item
+            android:id="@+id/nav_con"
+            android:icon="@drawable/ic_local_phone_black_24dp"
+            android:title="Contact US"/>
+
+        <item
+            android:id="@+id/nav_about"
+            android:title="About"
+            android:icon="@drawable/ic_hdr_strong_black_24dp"
+            />
+
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/ic_public_black_24dp"
+            android:title="Website"/>
+
+
+    </group>
+
+</menu>

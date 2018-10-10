@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IKL</string>
+    <string name="title_activity_home">IKL</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string-array name="home_fragment_content_list">
+        <item>Introduction</item>
+        <item>IKL Brand</item>
+        <item>Messages</item>
+        <item>Meet The Trainers</item>
+        <item>Our Global Clients</item>
+        <item>Associations</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
